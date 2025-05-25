@@ -1,0 +1,5 @@
+C:\Users\plami\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.csproj.AssemblyReference.cache
+C:\Users\plami\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.AssemblyInfoInputs.cache
+C:\Users\plami\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.AssemblyInfo.cs
+C:\Users\plami\source\repos\Movies\Movies\obj\Debug\net8.0\Movies.csproj.CoreCompileInputs.cache

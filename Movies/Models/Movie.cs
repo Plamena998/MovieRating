@@ -1,0 +1,25 @@
+﻿using Movies.Base;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Movies.Models
+{
+    public class Movie : BaseModel
+    {
+        public string MovieName{ get; set; }
+        public int Duration { get; set; }
+        public int Gross { get; set; }
+        public int ReleaseYear { get; set; }
+        public double IMDBRating { get; set; }
+        public double Metascore { get; set; }
+        public double Vote { get; set; }
+        public List<Genre> Genres { get; set; }
+        public int DirectorId { get; set; }
+        public Director Director { get; set; }
+        public int CastId { get; set; }
+        public Cast Cast { get; set; }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ucz3XCd0cqw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plami\\source\\repos\\Movies\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plami\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
