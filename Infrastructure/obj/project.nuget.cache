@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ucz3XCd0cqw=",
+  "dgSpecHash": "AuzLX+T0K5E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\plami\\source\\repos\\Movies\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\plami\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
   ],

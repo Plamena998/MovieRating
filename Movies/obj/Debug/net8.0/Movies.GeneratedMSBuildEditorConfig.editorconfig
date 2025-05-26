@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Movies
-build_property.ProjectDir = C:\Users\plami\source\repos\Movies\Movies\
+build_property.ProjectDir = C:\Users\plami\Documents\uni\GitHub\Movies\Movies\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

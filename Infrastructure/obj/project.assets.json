@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plami\\source\\repos\\Movies\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\plami\\source\\repos\\Movies\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\plami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plami\\source\\repos\\Movies\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\plami\\AppData\\Roaming\\NuGet\\NuGet.Config",
