@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{301640B8-CBDE-46E4-B603-C306FA7AB665}|Movies\\Movies.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{301640B8-CBDE-46E4-B603-C306FA7AB665}|Movies\\Movies.csproj|solutionrelative:movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\migrations\\20250529203226_updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20250529203226_updatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0F8DE71-D9AE-4193-B03F-F74EF579E362}|Infrastructure\\Infrastructure.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\infrastructure\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0F8DE71-D9AE-4193-B03F-F74EF579E362}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\csvfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526200053_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataContext\\Migrations\\20250526200053_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{301640B8-CBDE-46E4-B603-C306FA7AB665}|Movies\\Movies.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301640B8-CBDE-46E4-B603-C306FA7AB665}|Movies\\Movies.csproj|solutionrelative:movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6587D14-0DD0-4EEA-A5F2-61FF50EAE07F}|Movies.Models\\Movies.Models.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\movies.models\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +31,16 @@
       "RelativeMoniker": "D:0:0:{A0F8DE71-D9AE-4193-B03F-F74EF579E362}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526193304_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataContext\\Migrations\\20250526193304_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\migrations\\20250526200053_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20250526200053_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\migrations\\20250526193304_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20250526193304_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\migrations\\20250527062458_dataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\migrations\\20250527062458_dataadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "20250529203226_updateData.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250529203226_updateData.cs",
+              "RelativeDocumentMoniker": "DataContext\\Migrations\\20250529203226_updateData.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250529203226_updateData.cs",
+              "RelativeToolTip": "DataContext\\Migrations\\20250529203226_updateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:32:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20250526200053_initial1.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526200053_initial1.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250526200053_initial1.cs",
@@ -54,25 +74,23 @@
               "RelativeToolTip": "DataContext\\Migrations\\20250526200053_initial1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T20:00:54.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T20:00:54.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CsvFileReader.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\CsvFileReader.cs",
               "RelativeDocumentMoniker": "Infrastructure\\CsvFileReader.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\CsvFileReader.cs",
               "RelativeToolTip": "Infrastructure\\CsvFileReader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T19:48:30.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T19:48:30.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250526193304_initial.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526193304_initial.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250526193304_initial.cs",
@@ -80,8 +98,7 @@
               "RelativeToolTip": "DataContext\\Migrations\\20250526193304_initial.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T19:33:04.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T19:33:04.375Z"
             },
             {
               "$type": "Document",
@@ -91,49 +108,58 @@
               "RelativeDocumentMoniker": "Movies.Models\\Models\\Movie.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Movies.Models\\Models\\Movie.cs",
               "RelativeToolTip": "Movies.Models\\Models\\Movie.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T19:20:17.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T19:20:17.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MoviesDbContext.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\MoviesDbContext.cs",
               "RelativeDocumentMoniker": "DataContext\\MoviesDbContext.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\MoviesDbContext.cs",
               "RelativeToolTip": "DataContext\\MoviesDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T19:16:52.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T19:16:52.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DataSeed.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
               "RelativeDocumentMoniker": "DataContext\\DataSeed.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
               "RelativeToolTip": "DataContext\\DataSeed.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAmwEQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAewC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T19:01:14.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "20250527062458_dataadd.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250527062458_dataadd.cs",
+              "RelativeDocumentMoniker": "DataContext\\Migrations\\20250527062458_dataadd.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250527062458_dataadd.cs",
+              "RelativeToolTip": "DataContext\\Migrations\\20250527062458_dataadd.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:24:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Movies\\Program.cs",
               "RelativeDocumentMoniker": "Movies\\Program.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Movies\\Program.cs",
               "RelativeToolTip": "Movies\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:41:47.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:41:47.351Z"
             },
             {
               "$type": "Document",
@@ -145,8 +171,7 @@
               "RelativeToolTip": "Infrastructure\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:37:23.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:37:23.051Z"
             }
           ]
         }
