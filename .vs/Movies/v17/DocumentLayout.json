@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|c:\\users\\plami\\documents\\uni\\github\\movies\\datacontext\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06D528C6-2B02-4104-9870-EE2644FAB3F1}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataService.cs",
+              "RelativeDocumentMoniker": "DataContext\\DataService.cs",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataService.cs",
+              "RelativeToolTip": "DataContext\\DataService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:32:42.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20250529203226_updateData.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250529203226_updateData.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250529203226_updateData.cs",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250526200053_initial1.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526200053_initial1.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250526200053_initial1.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CsvFileReader.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\CsvFileReader.cs",
               "RelativeDocumentMoniker": "Infrastructure\\CsvFileReader.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20250526193304_initial.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250526193304_initial.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250526193304_initial.cs",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Movies.Models\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Movies.Models\\Models\\Movie.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MoviesDbContext.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\MoviesDbContext.cs",
               "RelativeDocumentMoniker": "DataContext\\MoviesDbContext.cs",
@@ -126,20 +143,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DataSeed.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
               "RelativeDocumentMoniker": "DataContext\\DataSeed.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
               "RelativeToolTip": "DataContext\\DataSeed.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAewC8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T19:01:14.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20250527062458_dataadd.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\Migrations\\20250527062458_dataadd.cs",
               "RelativeDocumentMoniker": "DataContext\\Migrations\\20250527062458_dataadd.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Movies\\Program.cs",
               "RelativeDocumentMoniker": "Movies\\Program.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\Infrastructure\\Model.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Model.cs",

@@ -62,8 +62,7 @@
               "RelativeToolTip": "DataContext\\Migrations\\20250529203226_updateData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T20:32:26.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T20:32:26.236Z"
             },
             {
               "$type": "Document",
@@ -131,9 +130,9 @@
               "Title": "DataSeed.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
               "RelativeDocumentMoniker": "DataContext\\DataSeed.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs*",
-              "RelativeToolTip": "DataContext\\DataSeed.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAAewC8AAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Movies\\DataContext\\DataSeed.cs",
+              "RelativeToolTip": "DataContext\\DataSeed.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAewC8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T19:01:14.7Z",
               "EditorCaption": ""
